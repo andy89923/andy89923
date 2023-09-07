@@ -8,7 +8,7 @@
 
 - 🌱 I enjoy learning new stuff from all the different categories in school.
 
-- 📫 How to reach me --> **ctfang.cs08@nycu.edu.com**
+- 📫 How to reach me --> **ctfang.cs12[at]nycu.edu.com**
 
 <br>
 
