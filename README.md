@@ -62,11 +62,14 @@
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/andy89923">
-    <img height="160em" 
+<!--     <img height="160em" 
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy89923&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&include_all_commits=true&count_private=true"
+      alt="CTFang Github Statistics" /> -->
+    <img height="160em" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andy89923&theme=github_dark"
       alt="CTFang Github Statistics" />
     <img height="160em" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=andy89923&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=6"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andy89923&theme=github_dark"
       alt="CTFang Languages" bg_color=#808080/>
   </a>
 </p>
